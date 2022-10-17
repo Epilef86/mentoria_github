@@ -2,4 +2,4 @@ function hello world(nome){
     return "Hello world, "+ nome;
 }
 
-console.log(helloWord("Felipe"));
+console.log(helloWord("Naty <3"));
